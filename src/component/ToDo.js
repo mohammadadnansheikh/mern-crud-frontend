@@ -1,6 +1,5 @@
 import React from "react";
-import { IconName } from "react-icons/bi";
-// import { IconName } from "react-icons/ai";
+
 
 const ToDo = ({ text, upDateMode, deleteTodo }) => {
   return (
